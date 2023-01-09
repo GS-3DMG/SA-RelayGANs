@@ -1,2 +1,2 @@
 # SA-RelayGANs
-A repository for complex hydrological relism characterization based on GANs.
+A repository for complex hydrological realism characterization based on GANs.
